@@ -139,7 +139,7 @@ Examples:
 
 ---
 
-## Correction Event (\(e_c\))
+- $e_c$ — Correction Event
 
 The smallest unit of reality-driven adaptation.
 
