@@ -180,7 +180,7 @@ Both can sustain adaptation.
 
 ---
 
-## Representation (\(R\))
+- $R$ — Representation
 
 The internal structure used to compress, predict, and act.
 
@@ -192,7 +192,7 @@ A larger representation is not necessarily a better representation.
 
 ---
 
-## Reachability (\(\Omega\))
+## Reachability ($\Omega$)
 
 The set of future states a system can reliably influence.
 
@@ -202,9 +202,9 @@ A deterministic robot arm may have almost zero uncertainty while having enormous
 
 Therefore:
 
-\[
-\Omega \neq entropy
-\]
+$$
+\Omega \neq \text{entropy}
+$$
 
 Reachability measures control potential, not ignorance.
 
@@ -214,39 +214,39 @@ Reachability measures control potential, not ignorance.
 
 When internal growth exceeds correction capacity:
 
-\[
+$$
 \delta(t)=
 \max
 \left(
 0,
 \frac{d\Omega_{nom}}{dt}-C_{cap}
 \right)
-\]
+$$
 
 The system accumulates adaptive debt:
 
-\[
+$$
 \frac{dD}{dt}=\delta(t)-R(D)
-\]
+$$
 
 where:
 
-- \(D\) = accumulated divergence
-- \(R(D)\) = restoration capacity
+- $D$ = accumulated divergence
+- $R(D)$ = restoration capacity
 
 Stable systems maintain negative feedback:
 
-\[
+$$
 \frac{dR}{dD}>0
-\]
+$$
 
 As divergence increases, correction mechanisms become stronger.
 
 Unstable systems experience feedback inversion:
 
-\[
+$$
 \frac{dR}{dD}<0
-\]
+$$
 
 The system becomes increasingly resistant to correction.
 
