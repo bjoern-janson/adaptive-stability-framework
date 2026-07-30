@@ -125,7 +125,7 @@ The failure is losing the ability to become less wrong.
 
 # Core Primitives
 
-## Reality Input (\(E^*\))
+- $E^*$ — Reality Input
 
 External information that can challenge the current internal model.
 
