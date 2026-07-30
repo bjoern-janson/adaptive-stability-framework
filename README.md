@@ -28,29 +28,33 @@ The goal is to define the conditions that any adaptive architecture must satisfy
 
 An adaptive system requires two layers:
 
-## The substrate
+# The Substrate
 
 The mechanism that stores, updates, and transforms information.
 
 Examples:
 
-- neural networks
-- biological brains
-- knowledge graphs
-- memory systems
-- organizations
-- scientific communities
+- Neural Networks
+- Biological Brains
+- Knowledge Graphs
+- Memory Systems
+- Organizations
+- Scientific Communities
 
-## The governing dynamics
+---
+
+# The Governing Dynamics
 
 The constraints that determine whether the substrate:
 
-- continues adapting
-- becomes stagnant
-- drifts away from reality
-- enters self-reinforcing failure
+- Continues adapting
+- Becomes stagnant
+- Drifts away from reality
+- Enters self-reinforcing failure
 
-A useful analogy:
+---
+
+# A Useful Analogy
 
 > The engine determines what the system can do.  
 > Thermodynamics determines whether the engine can keep doing it.
