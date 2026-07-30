@@ -84,29 +84,33 @@ When internal expansion exceeds correction capacity, the system accumulates dive
 
 Healthy adaptive systems follow:
 
-Reality
-↓
-Error / Feedback
-↓
-Correction
-↓
-Structural Update
-↓
-Improved Representation
-↓
-Greater Valid Reachability
+**Reality**  
+↓  
+**Error / Feedback**  
+↓  
+**Correction**  
+↓  
+**Structural Update**  
+↓  
+**Improved Representation**  
+↓  
+**Greater Valid Reachability**
+
+---
 
 Failure occurs when the loop changes:
 
-Internal Structure
-↓
-Self Reinforcement
-↓
-Reduced External Correction
-↓
-Greater Divergence
-↓
-More Internal Reinforcement
+**Internal Structure**  
+↓  
+**Self Reinforcement**  
+↓  
+**Reduced External Correction**  
+↓  
+**Greater Divergence**  
+↓  
+**More Internal Reinforcement**
+
+---
 
 The critical failure is not making mistakes.
 
