@@ -372,11 +372,11 @@ The objective is to understand the conditions under which adaptive systems remai
 
 Relevant areas:
 
-- artificial intelligence
-- machine learning
-- cybernetics
-- control theory
-- information theory
-- cognitive science
-- evolutionary systems
-- adaptive memory architectures
+- Artificial Intelligence
+- Machine Learning
+- Cybernetics
+- Control Theory
+- Information Theory
+- Cognitive Science
+- Evolutionary Systems
+- Adaptive Memory Architectures
