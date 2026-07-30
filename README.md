@@ -156,20 +156,20 @@ It is information that changes the system's future behavior.
 
 ---
 
-## Correction Capacity (\(C_{cap}\))
+- $C_{cap}$ — Correction Capacity
 
 The system's ability to convert reality feedback into useful structural updates.
 
 Conceptually:
 
-\[
-C_{cap}=f_c \cdot \bar{w}_c}
-\]
+$$
+C_{cap}=f_c \cdot \bar{w}_c
+$$
 
 where:
 
-- \(f_c\) = correction frequency
-- \(\bar{w}_c\) = average correction magnitude
+- $f_c$ = correction frequency
+- $\bar{w}_c$ = average correction magnitude
 
 A system can have:
 
